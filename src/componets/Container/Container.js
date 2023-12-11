@@ -17,5 +17,4 @@ const Container = ({ width, style, children }) => {
     </div>
   );
 };
-
 export default Container;
